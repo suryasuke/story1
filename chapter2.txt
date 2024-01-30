@@ -1,1 +1,1 @@
-this is chapter 2 in git repo ver-con
+chapter 2 in  git repo
